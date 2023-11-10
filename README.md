@@ -1,26 +1,11 @@
 ### Hi there, I'm Michael 👋
 
 - 🗺️ I’m currently working on [qgis-js](https://github.com/qgis/qgis-js)
-- 🥰 I'm in love with all things geospatial, WebAssembly and FOSS in genral
+- 🥰 I'm in love with all things geospatial, WebAssembly and FOSS in general
 - 🙋‍♂️ I'm **available for hire**
-  - 📫 You'll find the email address in my commmits meta data
+  - 📫 You'll find the email address in my commits meta data
 - 👨‍🏫 I'm a [web cartography teacher](https://github.com/boardend/teaching) and like to [speak at conferences](https://github.com/boardend/talks)
 - 😊 Away from keyboard? I'm probably
   - 🏄‍♂️ rinding waves 🌴 🌊 🤙
   - 🏂 shreding or 🧗 climbing the alps 🏕️ 🐐 🏔️ ☃️
   - ⛵ learning how to sail the seas 🧭 🏝️ ⚓
-
-<!--
-**boardend/boardend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
